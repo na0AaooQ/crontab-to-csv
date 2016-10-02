@@ -1,2 +1,2 @@
-# crontab_to_csv
+# crontab-to-csv
 LinuxのcrontabをCSVで出力するシェルスクリプト
